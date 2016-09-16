@@ -2,7 +2,7 @@
 #include <iostream>
 
 using namespace std;
-
+//Dont comment bad code
 class Vector {
 private:
     double* elements;
