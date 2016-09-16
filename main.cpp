@@ -1,6 +1,9 @@
 //Copy and Move
 #include <iostream>
 
+//Things should be as simple as possible,
+//put not simpler
+
 using namespace std;
 //Dont comment bad code
 //rewrite it
