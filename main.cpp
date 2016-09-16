@@ -4,6 +4,8 @@
 //Things should be as simple as possible,
 //put not simpler
 
+//Clean Code is maintable and reads like a prose.
+
 using namespace std;
 //Dont comment bad code
 //rewrite it
