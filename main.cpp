@@ -6,6 +6,8 @@
 
 //Clean Code is maintable and reads like a prose.
 
+//What if we have a previous commit, but we do not have a tag for it?
+
 using namespace std;
 //Dont comment bad code
 //rewrite it
