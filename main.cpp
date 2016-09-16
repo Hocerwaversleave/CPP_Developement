@@ -8,6 +8,8 @@
 
 //What if we have a previous commit, but we do not have a tag for it?
 
+//We red 10 times more than we write, we are programmers.
+
 using namespace std;
 //Dont comment bad code
 //rewrite it
