@@ -3,6 +3,7 @@
 
 using namespace std;
 //Dont comment bad code
+//rewrite it
 class Vector {
 private:
     double* elements;
